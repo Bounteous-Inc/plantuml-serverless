@@ -9,12 +9,10 @@ import net.sourceforge.plantuml.FileFormat;
 import net.sourceforge.plantuml.FileFormatOption;
 import net.sourceforge.plantuml.LineLocation;
 import net.sourceforge.plantuml.SourceStringReader;
-import net.sourceforge.plantuml.StringLocated;
 import net.sourceforge.plantuml.code.AsciiEncoder;
 import net.sourceforge.plantuml.servlet.utility.UmlExtractor;
 import net.sourceforge.plantuml.syntax.SyntaxChecker;
 import net.sourceforge.plantuml.syntax.SyntaxResult;
-import net.sourceforge.plantuml.tim.TLineType;
 import net.sourceforge.plantuml.version.Version;
 import org.apache.log4j.Logger;
 
